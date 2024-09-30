@@ -1,0 +1,15 @@
+C:\Users\jklin\OneDrive\Desktop\MIS 221\mis-221-lab-4-Jkline32\bin\Debug\net8.0\mis-221-lab-4-Jkline32.exe
+C:\Users\jklin\OneDrive\Desktop\MIS 221\mis-221-lab-4-Jkline32\bin\Debug\net8.0\mis-221-lab-4-Jkline32.deps.json
+C:\Users\jklin\OneDrive\Desktop\MIS 221\mis-221-lab-4-Jkline32\bin\Debug\net8.0\mis-221-lab-4-Jkline32.runtimeconfig.json
+C:\Users\jklin\OneDrive\Desktop\MIS 221\mis-221-lab-4-Jkline32\bin\Debug\net8.0\mis-221-lab-4-Jkline32.dll
+C:\Users\jklin\OneDrive\Desktop\MIS 221\mis-221-lab-4-Jkline32\bin\Debug\net8.0\mis-221-lab-4-Jkline32.pdb
+C:\Users\jklin\OneDrive\Desktop\MIS 221\mis-221-lab-4-Jkline32\obj\Debug\net8.0\mis-221-lab-4-Jkline32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jklin\OneDrive\Desktop\MIS 221\mis-221-lab-4-Jkline32\obj\Debug\net8.0\mis-221-lab-4-Jkline32.AssemblyInfoInputs.cache
+C:\Users\jklin\OneDrive\Desktop\MIS 221\mis-221-lab-4-Jkline32\obj\Debug\net8.0\mis-221-lab-4-Jkline32.AssemblyInfo.cs
+C:\Users\jklin\OneDrive\Desktop\MIS 221\mis-221-lab-4-Jkline32\obj\Debug\net8.0\mis-221-lab-4-Jkline32.csproj.CoreCompileInputs.cache
+C:\Users\jklin\OneDrive\Desktop\MIS 221\mis-221-lab-4-Jkline32\obj\Debug\net8.0\mis-221-lab-4-Jkline32.sourcelink.json
+C:\Users\jklin\OneDrive\Desktop\MIS 221\mis-221-lab-4-Jkline32\obj\Debug\net8.0\mis-221-lab-4-Jkline32.dll
+C:\Users\jklin\OneDrive\Desktop\MIS 221\mis-221-lab-4-Jkline32\obj\Debug\net8.0\refint\mis-221-lab-4-Jkline32.dll
+C:\Users\jklin\OneDrive\Desktop\MIS 221\mis-221-lab-4-Jkline32\obj\Debug\net8.0\mis-221-lab-4-Jkline32.pdb
+C:\Users\jklin\OneDrive\Desktop\MIS 221\mis-221-lab-4-Jkline32\obj\Debug\net8.0\mis-221-lab-4-Jkline32.genruntimeconfig.cache
+C:\Users\jklin\OneDrive\Desktop\MIS 221\mis-221-lab-4-Jkline32\obj\Debug\net8.0\ref\mis-221-lab-4-Jkline32.dll
